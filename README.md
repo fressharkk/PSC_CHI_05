@@ -41,5 +41,5 @@ Mettre à jour ensuite avec la commande suivante :
 
 
     conda activate aizynth-env
-## Quick start
-The main files you need to read for a quick start are train_model.py and rnn_testing.ipynb, to train you model and then compute the results on some of our test files
+## Bases de données
+Les bases de données utilisées sont téléchargeables sur Internet à l'aide des liens présents dans le rapport 
