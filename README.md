@@ -28,7 +28,7 @@ Il faut d'abord installer certaines bibliothèques et/ou modules. Pour les bibli
   
   Tensorflow
   
-### Installation de AiZynthFinder :
+### Installation de AiZynthFinder (https://github.com/MolecularAI/aizynthfinder):
 
 Il faut d'abord executer la commande suivante dans une console (Linux) ou sur Anaconda Prompt (Windows) :
 
