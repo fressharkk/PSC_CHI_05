@@ -3,9 +3,12 @@
 
 Ce GitHub présente le travail réalisé au cours du PSC_CHI05 (X20). Il s'agit notamment d'une étude réalisée sur la rétrosynthèse via l'utiliation du machine learning.
 Après avoir tenté de développer des modèles "simples" de notre côté, nous avons ensuite tenté de développer des modèles de Tranfer Learning basé sur l'algorithme AiZynthFinder dont le code se trouve dans le dossier Autres. 
+
 Nous avons tenté de rendre les résultats au maximum reproductibles par ceux qui le souhaitent. Nous décrivons ainsi les étapes pour parvenir à exploiter ce GitHub.
 Il faut noter entre autres que dans la section Résultats, tous les résultats ne sont pas présentés mais ils sont tous reproductibles. 
+
 Nous joignons également le rapport en PDF de ce PSC. 
+
 ## Instalation 
 ### Dependencies
 RDKit [https://github.com/rdkit/rdkit] (recommended version 2018_03_1 or later)
