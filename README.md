@@ -9,13 +9,37 @@ Il faut noter entre autres que dans la section Résultats, tous les résultats n
 
 Nous joignons également le rapport en PDF de ce PSC. 
 
-## Instalation 
-### Dependencies
-RDKit [https://github.com/rdkit/rdkit] (recommended version 2018_03_1 or later)
+## Installation 
 
-Syba [https://github.com/lich-uct/syba]
+Il faut d'abord installer certaines bibliothèques et/ou modules. Pour les bibliothèques habituelles, on peut utiliser l'instruction pip ou anaconda. 
 
-Tensorflow [https://www.tensorflow.org/install/pip?hl=fr]  (recommended version 1.15 or later)
+### Bibliothèques de base :
+  Numpy
+  
+  Pandas
+  
+  Rdkit
+  
+  Pickle
+  
+  Tqdm
+### Bibliothèques liées au Machine Learning : 
+  Scikit-Learn
+  
+  Tensorflow
+  
+### Installation de AiZynthFinder :
 
+Il faut d'abord executer la commande suivante dans une console (Linux) ou sur Anaconda Prompt (Windows) :
+
+    conda env create -f https://raw.githubusercontent.com/MolecularAI/aizynthfinder/master/env-users.yml
+    
+Mettre à jour ensuite avec la commande suivante : 
+
+    conda env update -n aizynth-env -f https://raw.githubusercontent.com/MolecularAI/aizynthfinder/master/env-users.yml
+    
+
+
+    conda activate aizynth-env
 ## Quick start
 The main files you need to read for a quick start are train_model.py and rnn_testing.ipynb, to train you model and then compute the results on some of our test files
