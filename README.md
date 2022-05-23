@@ -43,7 +43,7 @@ Mettre à jour ensuite avec la commande suivante :
 
 Nous renvoyons à ce lien pour des détails plus précis : https://homepage.univie.ac.at/norbert.haider/cheminf/cmmm.html
 
-Mais globalement, il s'agit de télécharger CheckMol et de compiler le fichier avec FreePascal puis de garder en mémoire le nom de l'executable obtenu afin de pouvoir le changer dans les notebooks qui le nécessitent. 
+Mais globalement, il s'agit de télécharger CheckMol et de compiler le fichier avec FreePascal puis de garder en mémoire le chemin de l'executable obtenu afin de pouvoir le changer dans les notebooks qui le nécessitent. 
 
 ## Bases de données
 Les bases de données utilisées sont téléchargeables sur Internet à l'aide des liens présents dans le rapport à la partie bibliographie. Les prétraitements que nous avons réalisé sur ces bases de données sont disponibles dans le dossier prétraitement.
