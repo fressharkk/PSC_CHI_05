@@ -11,7 +11,7 @@ Nous joignons également le rapport en PDF de ce PSC.
 
 ## Installation 
 
-Il faut d'abord installer certaines bibliothèques et/ou modules. Pour les bibliothèques habituelles, on peut utiliser l'instruction pip ou anaconda. 
+Il faut d'abord installer certaines bibliothèques et/ou modules. Pour les bibliothèques habituelles, on peut utiliser l'instruction pip ou Anaconda. 
 
 ### Bibliothèques de base :
   Numpy
